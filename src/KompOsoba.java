@@ -15,5 +15,7 @@ public class KompOsoba {
         x2 = (int)kompNaOsoba;
         System.out.println(x2);
 
+        // https://github.com/przemjan/trzeciaCgr1r2024v2
+
     }
 }
